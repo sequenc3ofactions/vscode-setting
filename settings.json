@@ -1,0 +1,47 @@
+{
+
+    "window.openFilesInNewWindow": "off",
+    "editor.tabSize": 2,
+    "editor.folding": false,
+    "editor.insertSpaces": false,
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+    "editor.detectIndentation": true,
+    "editor.suggestSelection": "first",
+    "editor.multiCursorModifier": "ctrlCmd",
+
+
+    "editor.scrollBeyondLastLine": true,
+
+    "editor.renderControlCharacters": false,
+    
+    "editor.quickSuggestionsDelay": 0,
+ 
+    "editor.bracketPairColorization.enabled": false,
+    "editor.glyphMargin": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.accessibilitySupport": "off",
+    "window.density.editorTabHeight": "compact",
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+
+
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+
+
+    "editor.fontSize":18 ,
+    "editor.lineHeight": 28.5,
+    "editor.fontWeight": "400",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Noto Sans Wancho",
+
+    "workbench.colorTheme": "Ayu Dark Bordered",
+
+    //................................................
+    "code-runner.runInTerminal": true,
+
+}
